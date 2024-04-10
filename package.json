@@ -1,6 +1,6 @@
 {
   "name": "login.dfe.public-api.jobs.client",
-  "version": "1.0.0",
+  "version": "3.0.1",
   "description": "Client for Public Api jobs",
   "main": "lib/index.js",
   "scripts": {
